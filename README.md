@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meghavi-singhaniya-62774b128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meghavi-singhaniya-62774b128/" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/meghavi.singhaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/meghavi.singhaniya/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/meghavisinghaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/meghavisinghaniya/" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/meghavi-singhaniya-62774b128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meghavi-singhaniya-62774b128/" height="30" width="40" /></a>
+<a href="https://facebook.com/meghavi.singhaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/meghavi.singhaniya/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/meghavisinghaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/meghavisinghaniya/" height="30" width="40" /></a>
 <a href="https://medium.com/@meghavi1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meghavi1610" height="30" width="40" /></a>
 </p>
 
