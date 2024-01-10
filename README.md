@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **meghavi.singhaniya@utexas.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Oxwqlco8TNVPuP_p3r4-nqW8JEKWeetx/view?ts=657d3754](https://drive.google.com/file/d/1Oxwqlco8TNVPuP_p3r4-nqW8JEKWeetx/view?ts=657d3754)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Oxwqlco8TNVPuP_p3r4-nqW8JEKWeetx/view?ts=657d3754)
 
 - ⚡ Fun fact **My first solo trip to the mountains was at 23, which was also my first time seeing mountains**
 
